@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PonVicky
 - 👀 I’m interested in web development and pentesting
 - 🌱 I’m currently learning html ,css and js(Beginner)
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on (to be filled😜) -->
 - 📫 How to reach me - via Email -- ponvignesh6@gmail.com
 
 <!---
