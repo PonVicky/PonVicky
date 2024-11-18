@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PonVicky
-- 👀 I’m interested in web development 
+- 👀 I’m seeking a entry level position as a software developer 
 - 🌱 I’m currently react js
-- 🔥 Pro in JAVA and Problem solving
+- 🔥 Good at JAVA and Problem solving
 <!-- - 💞️ I’m looking to collaborate on (to be filled😜) -->
-- 📫 How to reach me - via Email -- ponvignesh6@gmail.com
+- 📫 How to reach me - via Email -- ponvicky6@gmail.com
 
 <!---
 PonVicky/PonVicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
