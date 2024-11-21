@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PonVicky
 - 👀 I’m seeking a entry level position as a software developer 
-- 🌱 I’m currently react js
+- 🌱 I’m currently learning react js
 - 🔥 Good at JAVA and Problem solving
 <!-- - 💞️ I’m looking to collaborate on (to be filled😜) -->
 - 📫 How to reach me - via Email -- ponvicky6@gmail.com
