@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react js
 - 🔥 Good at JAVA and Problem solving
 <!-- - 💞️ I’m looking to collaborate on (to be filled😜) -->
-- 📫 How to reach me - via Email -- ponvicky6@gmail.com
+- 📫Reach me - via Email -- ponvicky6@gmail.com
 
 <!---
 PonVicky/PonVicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
